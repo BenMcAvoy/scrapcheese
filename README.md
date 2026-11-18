@@ -15,3 +15,7 @@ The project contains a game-side module and a small injector project. The code d
 ## Status
 
 This is an exploratory prototype, not a general-purpose mod or supported release.
+
+## Defensive analysis
+
+See [DEFENSIVE_ANALYSIS.md](DEFENSIVE_ANALYSIS.md) for a discussion of in-process extensions and the limits of what this local experiment demonstrates.
